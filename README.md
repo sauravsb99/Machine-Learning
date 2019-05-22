@@ -1,3 +1,3 @@
 # Machine-Learning Using Python
 ____________________________________________________________________________________________________________________________
-Machine learning using python (UDEMY)
+Install anaconda. Install spyder. Run it using spyder and tadah.
